@@ -173,9 +173,9 @@ sections:
     content :
       enabled : true
     social_links :
-      enabled : true
+      enabled : false
     github_projects :
-      enabled : true
+      enabled : false
   social_links :
     enabled : false
   github_projects :

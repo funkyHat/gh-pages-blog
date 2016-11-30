@@ -323,12 +323,7 @@ social_links :
 #   - project :
 #     name : gh-pages-blog
 #     url : https://github.com/thedereck/gh-pages-blog
-github_projects :
-  header : Fork Me!
-  projects :
-  - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -352,12 +347,7 @@ github_projects :
 #     - link :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
-external_links :
-  header : Great gh-pages-blog Sites!
-  links :
-    - link :
-      name : The Dereck
-      url: https://thedereck.github.io
+
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both

@@ -278,29 +278,7 @@ navbar :
 #       name : Twitter
 #       font_awesome_icon : icon-twitter
 #       url : https://www.twitter.com/dereckcurry
-social_links :
-  follow_name : Dereck Curry For Updates About gh-pages-blog
-  links :
-    - link :
-      enabled : true
-      name : GitHub
-      font_awesome_icon : icon-github-alt
-      url : https://github.com/TheDereck
-    - link :
-      enabled : true
-      name: Google+
-      font_awesome_icon : icon-google-plus
-      url : https://plus.google.com/109660251296662910676?rel=author
-    - link :
-      enabled : true
-      name : Linkedin
-      font_awesome_icon : icon-linkedin
-      url : http://www.linkedin.com/in/dereckcurry
-    - link :
-      enabled : true
-      name : Twitter
-      font_awesome_icon : icon-twitter
-      url : https://www.twitter.com/DereckCurry
+
 
 
 # These are a list of GitHub projects that the blog owner would like to
